@@ -1,0 +1,7 @@
+<script>
+var at = new talk();
+at.init({
+      appId: 'Your LeanCloud appId',
+      appKey: 'Your LeanCloud appKey',      
+})
+</script>
